@@ -45,7 +45,7 @@ jobs:
       
       - name: Build book 📚
         run: |
-          jupyter-book build "maths-nlp" --path-output "."
+          jupyter-book build "maths-gsce" --path-output "."
 
       - name: Setup Pages
         id: pages
