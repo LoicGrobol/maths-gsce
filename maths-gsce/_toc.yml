@@ -3,4 +3,5 @@
 
 format: jb-book
 root: intro
-# chapters: []
+chapters:
+  - file: chapters/01-samples/samples.md
