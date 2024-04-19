@@ -1,0 +1,8 @@
+click
+jupyter-book
+livereload
+matplotlib
+numpy
+sphinx-jupyterbook-latex
+sphinx-proof
+sphinx-serve
